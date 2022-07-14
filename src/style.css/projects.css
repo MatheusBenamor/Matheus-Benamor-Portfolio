@@ -1,0 +1,15 @@
+.projects-logo {
+    display: flex;
+    justify-content: row;
+    justify-content: space-evenly;
+}
+
+.projects-logo img {
+    width: 300px;
+    height: 300px;
+}
+
+.projects-logo div {
+    display: flex;
+    justify-content: space-around;
+}
